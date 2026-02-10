@@ -21,28 +21,84 @@ Currently, I'm learning Remix and I'm interested in exploring languages like Pyt
 
 Here you can find some of the projects I’ve worked on. Each one represents a real problem solved with code (because programming is basically life, but with bugs).
 
-### 🚀 FeedbackNet (Fullstack App)
+## 🚀 FeedbackNet (Fullstack App)
 
-**Description:**
-A fullstack web application for managing PQR/S (Petitions, Complaints, Claims, and Suggestions). It includes authentication, role-based access, request tracking, and responses in real time.
+**Description**
+FeedbackNet is a fullstack web application for managing **PQR/S** (Petitions, Complaints, Claims, and Suggestions).
+It provides authentication, role-based access, request lifecycle tracking, and real-time responses.
 
-**Tech Stack:**
+---
 
-* Frontend: Next.js, React, TailwindCSS
-* Backend: Node.js, Express
-* Database: PostgreSQL (Neon)
-* ORM: Prisma
-* Deployment: Render (API) / Netlify (Frontend)
+## 🧩 Architecture Overview
 
-**Features:**
+This project is split into **two independent repositories**, following a real-world fullstack architecture:
 
-* Create and manage PQR/S requests
-* Status tracking (Pending, In Progress, Resolved, Canceled)
-* Modal-based UX for details and responses
-* Secure API integration
+* **Frontend** → Client-side application (Next.js)
+* **Backend** → REST API (Node.js + Express)
 
-🔗 **Repo:** *(https://github.com/RafaOsorio1/feedback-net)*
-🌐 **Live Demo:** *([Try It](https://feedback-net.netlify.app/home))*
+---
+
+## 🎨 Frontend
+
+**Tech Stack**
+
+* Next.js
+* React
+* TailwindCSS
+* TanStack Query
+
+**Responsibilities**
+
+* User interface and UX
+* Authentication flow
+* Request creation and visualization
+* Modal-based interactions
+* API consumption
+
+🔗 **Frontend Repository**
+👉 [https://github.com/RafaOsorio1/feedback-net](https://github.com/RafaOsorio1/feedback-net)
+
+🌐 **Live Demo**
+👉 [https://feedback-net.netlify.app/home](https://feedback-net.netlify.app/home)
+
+---
+
+## ⚙️ Backend (API)
+
+**Tech Stack**
+
+* Node.js
+* Express
+* PostgreSQL (Neon)
+* Prisma ORM
+* JWT Authentication
+
+**Responsibilities**
+
+* Authentication & authorization
+* Role-based access control
+* PQR/S request management
+* Status transitions
+* Responses handling
+* Secure REST API
+
+🔗 **Backend Repository**
+👉 **https://github.com/RafaOsorio1/feedback-net-backend_V2**
+
+🌐 **API Deployment**
+👉 **https://feedback-net-backend-v2.onrender.com**
+
+---
+
+## 🔐 Key Backend Features
+
+* JWT-based authentication
+* Prisma schema & migrations
+* Clean service/controller architecture
+* Environment-based configuration
+* Production-ready REST API
+
+---
 
 
 ## 🤝 Collaborations and Contributions
