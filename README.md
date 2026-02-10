@@ -17,9 +17,33 @@ In my daily work, I use a variety of technologies and tools. Here's a quick over
 
 Currently, I'm learning Remix and I'm interested in exploring languages like Python and Go.
 
-## 🌟 Featured Projects
-- **Real-time Monitoring**: I worked on a backend application for real-time equipment monitoring. It was a challenging and rewarding project.
-- **E-commerce in Development**: I'm developing an e-commerce platform where I'm putting into practice everything I've learned so far. I hope to share more soon!
+## 🧩 My Projects
+
+Here you can find some of the projects I’ve worked on. Each one represents a real problem solved with code (because programming is basically life, but with bugs).
+
+### 🚀 FeedbackNet (Fullstack App)
+
+**Description:**
+A fullstack web application for managing PQR/S (Petitions, Complaints, Claims, and Suggestions). It includes authentication, role-based access, request tracking, and responses in real time.
+
+**Tech Stack:**
+
+* Frontend: Next.js, React, TailwindCSS
+* Backend: Node.js, Express
+* Database: PostgreSQL (Neon)
+* ORM: Prisma
+* Deployment: Render (API) / Netlify (Frontend)
+
+**Features:**
+
+* Create and manage PQR/S requests
+* Status tracking (Pending, In Progress, Resolved, Canceled)
+* Modal-based UX for details and responses
+* Secure API integration
+
+🔗 **Repo:** *(https://github.com/RafaOsorio1/feedback-net)*
+🌐 **Live Demo:** *([Try It](https://feedback-net.netlify.app/home))*
+
 
 ## 🤝 Collaborations and Contributions
 I haven't contributed to open source projects yet, but I'm eager to start. I'd love to get involved in AI projects and continue exploring backend development, especially in the cloud.
