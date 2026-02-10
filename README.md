@@ -41,11 +41,12 @@ Currently, I'm learning Remix and I'm interested in exploring languages like Pyt
 
 ## 📊 GitHub Stats
 
-![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaOsorio1\&show_icons=true\&theme=tokyonight)
+[![Rafa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaOsorio1&theme=react-dark)](https://github.com/RafaOsorio1)
+
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaOsorio1\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaOsorio1&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400)
 
 ## 🧩 My Projects
 
