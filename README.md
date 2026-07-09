@@ -42,8 +42,6 @@ Greetings from Colombia! 🇨🇴 I'm a passionate Software Engineer focused on 
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaOsorio1&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400)](https://github.com/RafaOsorio1)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaOsorio1&theme=react-dark)](https://github.com/RafaOsorio1)
 
 <br/>
